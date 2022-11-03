@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @balqiszulkafli
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning multimedia computing
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me balqis.zulkafli@gmail.com
 
 <!---
