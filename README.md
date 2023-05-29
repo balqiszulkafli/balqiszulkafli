@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @balqiszulkafli
-- 👀 I’m interested in programming
+- 👀 I’m interested in becoming Web Developer
 - 🌱 I’m currently learning multimedia computing
 - 📫 How to reach me balqis.zulkafli@gmail.com
 
